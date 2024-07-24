@@ -4,3 +4,4 @@
 # A criação do podcast foi feito no https://app.clipchamp.com/
 # O leito de voz e  a imagem do podcast tbm.
 # O instrumental baixei no https://www.fesliyanstudios.com/royalty-free-music/downloads-c/hip-hop-rap-beats-music/11
+# Converti o video em mp3 através do AtubeCatcher
